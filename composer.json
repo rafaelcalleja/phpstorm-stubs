@@ -1,0 +1,13 @@
+{
+    "name": "rc/phpstorm-stubs",
+    "description": "STUBS are normal, syntactically correct PHP files that contain function & class signatures, constant definitions, etc. for all built in PHP stuff and most standard extensions",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Rafael Calleja",
+            "email": "rafaelcalleja@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
